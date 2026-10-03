@@ -1,1 +1,1 @@
-# Replaced with your AdMob line, e.g.: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-3466221616467977, DIRECT, f08c47fec0942fa0
